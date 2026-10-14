@@ -1,0 +1,18 @@
+# For Camera 
+opencv-python-headless
+VL53L5CX
+lgpio
+azure-iot-device 
+asyncio
+requests
+streamlit
+psycopg2-binary
+python-dotenv
+azure-storage-blob
+azure-data-tables
+
+# For IR sensor
+board
+adafruit-blinka
+adafruit-circuitpython-ads1x15
+
